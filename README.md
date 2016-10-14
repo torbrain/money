@@ -1,3 +1,5 @@
+welcome to open source
+
 Bitcoin Core integration/staging tree
 =====================================
 
